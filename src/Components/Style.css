@@ -1,0 +1,56 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+   background-image: linear-gradient(180deg, lightblue, lightpink,white);
+   background-repeat: no-repeat;
+   height: 100vh;
+}
+
+.heading{
+    text-shadow: 5px 6px 4px aquamarine;
+}
+button{
+    background-color: rgb(68, 217, 236);
+    border: 2px solid black;
+    height: 70px;
+    width: 300px;
+    border-radius: 30px;
+    margin-right: 60px;
+    margin-top: 30px;
+    font-size: 15px;
+}
+
+button:hover{
+    background-color: aqua;
+}
+
+.box-1{
+    height: 200px;
+    width: 400px;
+    background-color: aqua;
+    border: 2px solid black;
+    border-radius: 30px;
+    position: absolute;
+    /* bottom: 160px; */
+    top: 287px;
+    left: 220px;
+    padding: 50px;
+}
+
+.box-2{
+    height: 200px;
+    width: 400px;
+    background-color: rgb(238, 75, 156);
+    border: 2px solid black;
+    border-radius: 30px;
+    margin-top: 145px;
+    margin-left: 800px;
+    padding: 50px;
+}
+ .para1{
+     margin-top: 10px;
+     font-weight: 500;
+     font-size: large;
+ }
